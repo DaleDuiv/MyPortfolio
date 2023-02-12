@@ -5,9 +5,73 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: Work Sans;
+  text-align: center;
+  background-color: #1A0E27;
+  color: aliceblue;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+.navbar, .navbar-brand {
+  text-align: center;
+  display: block;
+  width: 100%;
+  background-color: #1A0E27;
+  
+}
+
+
+div.navbar-brand {
+  padding-top: 2em;
+  margin-bottom: 2em;
+  
+}
+
+main {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: 10em;
+  margin-right: 10em;
+}
+
+
+
+
+.nav-tabs li a{
+  color: white;
+}
+
+.myPortrait {
+	clip-path:fill-box;
+  width: 250px;
+}
+
+.label {
+  text-align: left;
+}
+
+.headerName {
+  color: white;
+}
+
+footer.footer {
+  background-color: #1A0E27;
+}
+
+
+
+
+@media only screen and (max-width: 1024px) {
+    main {
+      margin-top: 2em;
+      margin-bottom: 2em;
+      margin-left: 2em;
+      margin-right: 2em;
+    }
 }
