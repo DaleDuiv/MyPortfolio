@@ -40,8 +40,8 @@ export default function Contact() {
     }
   }
 	return (
-		<section>
-			<div className="center">
+		<section >
+			<div className="center content is-medium">
 				<h2 className="page-header">Contact Me</h2>
 			</div>
 			<div>

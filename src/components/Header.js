@@ -24,7 +24,7 @@ export default function Header() {
   };  
 
   return (
-    <div>
+    <div >
       <nav className="navbar">
         <div className="navbar-brand">
             <a className="navbar-item is-justify-content-center" rel="noreferrer" target="_blank" href="https://github.com/DaleDuiv?tab=repositories"> 
@@ -33,8 +33,8 @@ export default function Header() {
         </div>
       </nav>
       <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
-      <main>
-        <div>
+      <main className="container">
+        <div className="content">
           {renderPage(currentPage)}
         </div>
       </main>

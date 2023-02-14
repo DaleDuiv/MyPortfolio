@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Resume() {
   return (
-    <div className="columns">
+    <div className="columns resumeBody">
       <div className="column">
         <p className="content is-medium">Resume</p>
         <hr />

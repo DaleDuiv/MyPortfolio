@@ -4,13 +4,13 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="content has-text-centered">
+        <hr />
         <p>
           <strong>Dale's Full Stack Development Portfolio</strong> - a React site by{" "}
           <a href="https://github.com/Dalduiv" target="_blank" rel="noreferrer">
             Dale Duivesteyn
           </a>
           <br></br>
-          <hr />
           <a
             href="https://www.linkedin.com/in/dale-duivesteyn/"
             target="_blank" rel="noreferrer"
