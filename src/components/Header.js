@@ -24,7 +24,7 @@ export default function Header() {
   };  
 
   return (
-    <div >
+    <div className="fillHTML" >
       <nav className="navbar">
         <div className="navbar-brand">
             <a className="navbar-item is-justify-content-center" rel="noreferrer" target="_blank" href="https://github.com/DaleDuiv?tab=repositories"> 

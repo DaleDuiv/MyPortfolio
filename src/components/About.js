@@ -4,7 +4,7 @@ import React from "react";
 export default function About()  {
   return (
     <div className='about content is-medium' >
-        <h2>About Me</h2>
+        <h2 className="page-header">About Me</h2>
         <hr />
         <div className='about-body'>
           <img src={process.env.PUBLIC_URL + '/img/portrait.jpg'} alt="Dale Duivesteyn" className="myPortrait" />

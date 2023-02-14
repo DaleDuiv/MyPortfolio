@@ -41,7 +41,7 @@ export default function Contact() {
   }
 	return (
 		<section >
-			<div className="center content is-medium">
+			<div className="center content is-medium contact">
 				<h2 className="page-header">Contact Me</h2>
 			</div>
 			<div>

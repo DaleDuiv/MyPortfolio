@@ -2,12 +2,12 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <footer className="footer">
+    <footer className="footer is-sticky-bottom">
       <div className="content has-text-centered">
-        <hr />
+      <hr className="footerHr"/>
         <p>
           <strong>Dale's Full Stack Development Portfolio</strong> - a React site by{" "}
-          <a href="https://github.com/Dalduiv" target="_blank" rel="noreferrer">
+          <a href="https://github.com/Daleduiv" target="_blank" rel="noreferrer">
             Dale Duivesteyn
           </a>
           <br></br>

@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-family: Work Sans;
   text-align: center;
-  background-color: #1A0E27;
+  background-color: #1b0404;
   color: aliceblue;
   height: fit-content;  
 }
@@ -17,15 +17,24 @@ code {
     monospace;
 }
 
+.about .page-header, .contact .page-header {
+  color:white
+}
+.about-body p{
+  text-align: left;
+  margin-left: 10px; 
+}
 
-
+.root {
+  height: 100%;
+}
 
 
 .navbar, .navbar-brand {
   text-align: center;
   display: block;
   width: 100%;
-  background-color: #1A0E27;
+  background-color: #1b0404;
   
 }
 
@@ -71,14 +80,17 @@ main {
 }
 
 
-
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
 
 .nav-tabs li a{
   color: white;
 }
 
 .resumeBody {
-  height: 50vh;
+  height: 100vh;
 }
 
 .myPortrait {
@@ -94,10 +106,15 @@ main {
   color: white;
 }
 
-
+Footer {
+  position: static;
+  width: 100%;
+  text-align: center;
+  
+}
 
 footer.footer {
-  background-color: #1A0E27;
+  background-color: #1b0404;
 }
 
 
@@ -110,4 +127,10 @@ footer.footer {
       margin-left: 2em;
       margin-right: 2em;
     }
+}
+@media only screen and (min-width: 1025px) {
+.about-body {
+  display: flex;
+  }
+
 }
