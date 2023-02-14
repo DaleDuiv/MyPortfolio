@@ -7,7 +7,7 @@ export default function Resume() {
       <div className="column">
         <p className="content is-medium">Resume</p>
         <hr />
-        <a href="insert resume here" className="button is-primary" target="_blank" rel="noreferrer">
+        <a href="tba" download className="button is-primary">
           <span className="icon"> <i className="fas fa-download"></i> </span>  
         </a>
       </div>
