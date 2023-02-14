@@ -31,6 +31,13 @@ export default function Footer() {
           >
           Email me
           </a>
+          <br></br>
+          <a
+            href="https://stackoverflow.com/users/19672815/daleduiv"
+            target="_blank" rel="noreferrer"
+          >
+          Stack Overflow
+          </a>
         </p>
       </div>
     </footer>

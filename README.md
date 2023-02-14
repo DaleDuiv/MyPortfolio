@@ -32,6 +32,13 @@ Created with
 Link to site: 
 https://github.com/DaleDuiv/reactportfolio
 
+![alt text](/public/img/about.png)
+![alt text](/public/img/portfolio.png)
+![alt text](/public/img/contact.png)
+![alt text](/public/img/resume.png)
+
+
+
 Deployed @ "TBA"
 
 ## Credits
