@@ -34,6 +34,14 @@ import Project from "./Project";
       repo: "https://github.com/DaleDuiv/challenge6",
       live: "https://daleduiv.github.io/challenge6/"
     },
+    {
+      id: 4,
+      title: "TheOpenSource",
+      image: "/img/OSScreenshot.jpg",
+      description: "Our final REACT project, an Open Source platform",
+      repo: "https://github.com/jeco1988/theopensource",
+      live: "https://theopensource.herokuapp.com/"
+    },
     
   ];
 
