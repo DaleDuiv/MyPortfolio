@@ -1,4 +1,4 @@
-# REACT Portfolio
+# MyPortfolio
 
 ## Description
 This is my Portfolio made using REACT. In this portfolio, you can view my previous work, learn a little about me, email me & checkout my Resume!
