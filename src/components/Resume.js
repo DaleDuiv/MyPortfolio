@@ -7,7 +7,7 @@ export default function Resume() {
       <div className="column">
         <p className="content is-medium">Resume</p>
         <hr />
-        <a href="https://github.com/DaleDuiv/reactportfolio/raw/main/public/img/Resume080723" download className="button is-primary">
+        <a href="https://github.com/DaleDuiv/reactportfolio/raw/main/public/img/Resume080723.pdf" download className="button is-primary">
           <span className="icon"> <i className="fas fa-download"></i> </span>  
         </a>
       </div>
